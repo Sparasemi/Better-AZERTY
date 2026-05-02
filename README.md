@@ -3,7 +3,7 @@ A modified layout of the French AZERTY keyboard.
 
 Better AZERTY is a modified layout of the French AZERTY keyboard for Windows. It's designed not only for French speakers by including characters such Œ or Ç, but for other Romance languages as well, even other European languages! You'll no longer need copying pasting characters like Á, É, Í, Ó, Ú, or ß, or using the autocorrect.
 
-# Inclued characters
+# Included characters
 
 `Shift`+`²`=`·`
 
